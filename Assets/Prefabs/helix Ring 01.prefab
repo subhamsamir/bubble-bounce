@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-221878495900015430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2165735180147497316}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30532ce2f3c10f146abab948005207e4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &7896172873268482348
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1363254215171989139, guid: 9c09eb6a8adea9446aacd775e001fd08,
+        type: 3}
+      propertyPath: m_Name
+      value: helix Ring 01
+      objectReference: {fileID: 0}
+    - target: {fileID: 1846635074465891369, guid: 9c09eb6a8adea9446aacd775e001fd08,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1846635074465891369, guid: 9c09eb6a8adea9446aacd775e001fd08,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1846635074465891369, guid: 9c09eb6a8adea9446aacd775e001fd08,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1846635074465891369, guid: 9c09eb6a8adea9446aacd775e001fd08,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1846635074465891369, guid: 9c09eb6a8adea9446aacd775e001fd08,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1846635074465891369, guid: 9c09eb6a8adea9446aacd775e001fd08,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1846635074465891369, guid: 9c09eb6a8adea9446aacd775e001fd08,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1846635074465891369, guid: 9c09eb6a8adea9446aacd775e001fd08,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1846635074465891369, guid: 9c09eb6a8adea9446aacd775e001fd08,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1846635074465891369, guid: 9c09eb6a8adea9446aacd775e001fd08,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1846635074465891369, guid: 9c09eb6a8adea9446aacd775e001fd08,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2327409502253063598, guid: 9c09eb6a8adea9446aacd775e001fd08,
+        type: 3}
+      propertyPath: m_Convex
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2327409502253063598, guid: 9c09eb6a8adea9446aacd775e001fd08,
+        type: 3}
+      propertyPath: m_IsTrigger
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2327409502253063598, guid: 9c09eb6a8adea9446aacd775e001fd08,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2354273508588190174, guid: 9c09eb6a8adea9446aacd775e001fd08,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 48b8bd441b1d0d04381966a8abfd1847, type: 2}
+    - target: {fileID: 7955668252875678449, guid: 9c09eb6a8adea9446aacd775e001fd08,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 48b8bd441b1d0d04381966a8abfd1847, type: 2}
+    - target: {fileID: 8330229737322203208, guid: 9c09eb6a8adea9446aacd775e001fd08,
+        type: 3}
+      propertyPath: m_Name
+      value: helix Ring 01
+      objectReference: {fileID: 0}
+    - target: {fileID: 9100216028235719146, guid: 9c09eb6a8adea9446aacd775e001fd08,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 48b8bd441b1d0d04381966a8abfd1847, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 9c09eb6a8adea9446aacd775e001fd08, type: 3}
+--- !u!1 &2165735180147497316 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8330229737322203208, guid: 9c09eb6a8adea9446aacd775e001fd08,
+    type: 3}
+  m_PrefabInstance: {fileID: 7896172873268482348}
+  m_PrefabAsset: {fileID: 0}
